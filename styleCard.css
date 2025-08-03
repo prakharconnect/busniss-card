@@ -1,0 +1,24 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.photo
+{
+     width: 250px;
+}
+.blue
+{
+      width: 150px;
+      
+}
+.accha
+{   width: 500px;
+    display: flex;
+    justify-content: space-between;
+    background: lightblue;
+    margin: 0,auto;
+    padding: 100px;
+    margin-top: 100px;
+    text-align: center;
+    border-bottom: 8px solid palegreen;
+}
